@@ -1,7 +1,14 @@
 ---
-layout: home
-search_exclude: true
+toc: true
+comments: true
+layout: post
+title: Test Corrections
+description: Test Corrections + Reflection for the MC 2020 Practice
+type: plans
+courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 0} }
+categories: [C1.4]
 ---
+
 # Test Corrections
 
 ## Question 66
@@ -153,7 +160,3 @@ For an algorithm to run in reasonable time, it must take a number of steps less 
 ### Explanation of Why My Answer Was Wrong?
 
 Reasonable run time is when the run time doesn't increase faster than a polynomial function of n. Ex: n^2 is reasonable but 2^n or n! is not.
-
-
-
-# Posts
