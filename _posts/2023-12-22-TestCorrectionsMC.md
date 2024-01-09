@@ -127,7 +127,6 @@ For this code segment, count is increased to 1 the first time "maple" is encount
 ### Explanation of Why My Answer Was Wrong?
 If spruce never shows up and count keeps resetting to 0, even if there is no spruce, the code will work. 
 ---
-# Test Corrections
 
 ## Question 50
 
@@ -160,3 +159,9 @@ For an algorithm to run in reasonable time, it must take a number of steps less 
 ### Explanation of Why My Answer Was Wrong?
 
 Reasonable run time is when the run time doesn't increase faster than a polynomial function of n. Ex: n^2 is reasonable but 2^n or n! is not.
+
+---
+# Reflection
+What went well: The quiz went very well, I only got 3 questions incorrect. Howvever, I know I did guess on a couple questions or was not a hundred percent confident in some of my questions so I will review them later. I think I did a good job on most of the theory questions from this team teach period and last team teach period because I reviewed my notebooks and vocab written down. I also think that I did a pretty good job with vizualizations of the robot questions because I used the college board annoatate tool. The anotate tool worked really well for long questions, finding keywords, and vizualizing code. 
+What to study more of: Restudy time complexity and code vizaulization (especially for errors)
+What to do in the future: I think I will manaage time beteer because the test took me more than 2 hours (around 3 hours). This is bad because the AP exam is timed. Also, I did not do the assignment in 1 sittin which is also mad for the AP exam.
